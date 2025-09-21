@@ -1,0 +1,244 @@
+{
+  "test_cases": [
+    {
+      "description": "A fast food restaurant near the bank",
+      "ambiguity_note": "Syntactic ambiguity between 'near the bank' as a location and 'bank' as a financial institution, versus 'bank' referring to the side of a river",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "fastfoodbank.com"
+          },
+          {
+            "domain": "fastfoodnearbank.com"
+          },
+          {
+            "domain": "fastfoodnearbybank.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "bankbite.com"
+          },
+          {
+            "domain": "cornercrunch.com"
+          },
+          {
+            "domain": "quickfuel.com"
+          }
+        ]
+      }
+    },
+    {
+      "description": "A light installation service",
+      "ambiguity_note": "Semantic ambiguity between 'light' as a source of illumination and 'light' as not heavy, referring to the ease of installation",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "lightinstallation.com"
+          },
+          {
+            "domain": "lightinstallationservice.com"
+          },
+          {
+            "domain": "lightinstallationservice.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "lumenscape.com"
+          },
+          {
+            "domain": "glowcraft.com"
+          },
+          {
+            "domain": "brightspace.com"
+          }
+        ]
+      }
+    },
+    {
+      "description": "A bike rental shop with a large collection of old books",
+      "ambiguity_note": "Ambiguity between the bike rental service and the book collection, questioning whether the books are for rent or the shop has a secondary purpose",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "bikebook.com"
+          },
+          {
+            "domain": "bikebookstore.com"
+          },
+          {
+            "domain": "bikebookshop.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "bookwheels.com"
+          },
+          {
+            "domain": "pedalpages.com"
+          },
+          {
+            "domain": "storysaddle.com"
+          }
+        ]
+      }
+    },
+    {
+      "description": "A mobile phone accessories store for cars",
+      "ambiguity_note": "Syntactic ambiguity between 'mobile phone accessories' and 'for cars', questioning whether the accessories are for phones used in cars or if the store is mobile and moves to different car locations",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "carphoneaccessories.com"
+          },
+          {
+            "domain": "carphoneaccessories.com"
+          },
+          {
+            "domain": "carphoneaccessories.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "carphonehub.com"
+          },
+          {
+            "domain": "drivegear.com"
+          },
+          {
+            "domain": "mobilecarfit.com"
+          }
+        ]
+      }
+    },
+    {
+      "description": "A home cleaning service that also sells houses",
+      "ambiguity_note": "Ambiguity between the primary business of cleaning homes and the secondary business of selling houses, questioning the relationship between the two services",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "cleanhomes.com"
+          },
+          {
+            "domain": "homesweep.com"
+          },
+          {
+            "domain": "homesweepclean.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "CleanNest.com"
+          },
+          {
+            "domain": "HomeSpark.com"
+          },
+          {
+            "domain": "FreshStartCo.com"
+          }
+        ]
+      }
+    },
+    {
+      "description": "A fitness center with a focus on healthy eating for pets",
+      "ambiguity_note": "Semantic ambiguity between 'healthy eating for pets' as a service provided by the fitness center and 'pets' being the primary clients of the fitness center",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "petfit.com"
+          },
+          {
+            "domain": "petfitclub.com"
+          },
+          {
+            "domain": "petfitclubs.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "pawsitiveeats.com"
+          },
+          {
+            "domain": "fitfurfriends.com"
+          },
+          {
+            "domain": "petwellbeing.com"
+          }
+        ]
+      }
+    },
+    {
+      "description": "A gardening tool rental service for construction sites",
+      "ambiguity_note": "Ambiguity between 'gardening tools' being rented for construction sites and 'gardening' being a secondary service provided at the construction sites",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "garden.com"
+          },
+          {
+            "domain": "garden.com"
+          },
+          {
+            "domain": "garden.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "SiteGrow.com"
+          },
+          {
+            "domain": "BuildBloom.com"
+          },
+          {
+            "domain": "YardCraft.com"
+          }
+        ]
+      }
+    },
+    {
+      "description": "A music school that teaches students how to fix instruments",
+      "ambiguity_note": "Semantic ambiguity between 'teaching students' as the primary service and 'fixing instruments' as a secondary skill being taught, questioning the primary focus of the school",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "fixit.com"
+          },
+          {
+            "domain": "fixitmusic.com"
+          },
+          {
+            "domain": "fixitmusicinstruments.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "tunecraft.com"
+          },
+          {
+            "domain": "soundsmiths.com"
+          },
+          {
+            "domain": "musicmend.com"
+          }
+        ]
+      }
+    }
+  ]
+}

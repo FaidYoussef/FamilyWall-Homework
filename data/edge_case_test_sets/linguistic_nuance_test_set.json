@@ -1,0 +1,424 @@
+{
+  "test_cases": [
+    {
+      "subcategory": "Slang & Idioms",
+      "description": "A trendy bar that's the cat's pajamas, serving craft beers and cocktails.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "catspajamas.com"
+          },
+          {
+            "domain": "catspajamasbar.com"
+          },
+          {
+            "domain": "catspajamasbarandgrill.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "craftmeow.com"
+          },
+          {
+            "domain": "tipsytails.com"
+          },
+          {
+            "domain": "purrfectpint.com"
+          }
+        ]
+      }
+    },
+    {
+      "subcategory": "Puns & Wordplay",
+      "description": "A bookstore named 'Page Turners' that hosts book clubs and author events.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "pageturners.com"
+          },
+          {
+            "domain": "bookclubs.com"
+          },
+          {
+            "domain": "bookstore.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "bookhaven.com"
+          },
+          {
+            "domain": "storyforge.com"
+          },
+          {
+            "domain": "readgather.com"
+          }
+        ]
+      }
+    },
+    {
+      "subcategory": "Slang & Idioms",
+      "description": "A boutique fitness studio that's off the chain, focusing on high-intensity interval training.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "offthechain.com"
+          },
+          {
+            "domain": "offthechainfitness.com"
+          },
+          {
+            "domain": "offthechainfitnessstudio.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "ignitefit.com"
+          },
+          {
+            "domain": "pulsefitness.com"
+          },
+          {
+            "domain": "flowstate.com"
+          }
+        ]
+      }
+    },
+    {
+      "subcategory": "Puns & Wordplay",
+      "description": "A flower shop called 'Petal Pushers' that specializes in bespoke bouquets and arrangements.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "petalpushers.com"
+          },
+          {
+            "domain": "petalpushers.com"
+          },
+          {
+            "domain": "petalpushers.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "bloomcraft.com"
+          },
+          {
+            "domain": "petalart.com"
+          },
+          {
+            "domain": "flowerloom.com"
+          }
+        ]
+      }
+    },
+    {
+      "subcategory": "Foreign Words & Names",
+      "description": "A Korean-fusion food truck named 'Seoul Food Co.' that serves kimchi tacos and bibimbap bowls.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "seoulfoodco.com"
+          },
+          {
+            "domain": "seoulfood.com"
+          },
+          {
+            "domain": "seoulfoodtruck.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "SeoulSpice.com"
+          },
+          {
+            "domain": "KimchiCrave.com"
+          },
+          {
+            "domain": "BibimbapCo.com"
+          }
+        ]
+      }
+    },
+    {
+      "subcategory": "Slang & Idioms",
+      "description": "A vintage clothing store that's the real deal, offering one-of-a-kind, curated pieces.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "vintageclothing.com"
+          },
+          {
+            "domain": "vintageclothes.com"
+          },
+          {
+            "domain": "vintageclothingstore.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "RewindStyle.com"
+          },
+          {
+            "domain": "PastThreads.com"
+          },
+          {
+            "domain": "VintageVogue.com"
+          }
+        ]
+      }
+    },
+    {
+      "subcategory": "Puns & Wordplay",
+      "description": "A tech startup named 'Byte-Sized Solutions' that develops innovative software for small businesses.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "bytesizedsolutions.com"
+          },
+          {
+            "domain": "bytesizedsolutions.com"
+          },
+          {
+            "domain": "bytesizedsolutions.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "bitsolve.com"
+          },
+          {
+            "domain": "smartbyte.com"
+          },
+          {
+            "domain": "launchpad.com"
+          }
+        ]
+      }
+    },
+    {
+      "subcategory": "Foreign Words & Names",
+      "description": "A French patisserie owned by Chef Pierre Dupont, featuring macarons, madeleines, and croissants.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "pierre-dupont.com"
+          },
+          {
+            "domain": "pierre-dupont-patisserie.com"
+          },
+          {
+            "domain": "pierre-dupont-macarons.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "PierrePatisserie.com"
+          },
+          {
+            "domain": "CroissantBliss.com"
+          },
+          {
+            "domain": "ParisianTreats.com"
+          }
+        ]
+      }
+    },
+    {
+      "subcategory": "Slang & Idioms",
+      "description": "A music venue that's the bomb, hosting live performances and concerts for up-and-coming artists.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "bomb.com"
+          },
+          {
+            "domain": "bombdiggity.com"
+          },
+          {
+            "domain": "bombastic.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "soundstage.com"
+          },
+          {
+            "domain": "risingbeats.com"
+          },
+          {
+            "domain": "amplified.com"
+          }
+        ]
+      }
+    },
+    {
+      "subcategory": "Puns & Wordplay",
+      "description": "A yoga studio named 'Downward Doggy Daycare' that offers classes and workshops for beginners.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "downwarddoggy.com"
+          },
+          {
+            "domain": "downwarddoggydaycare.com"
+          },
+          {
+            "domain": "downwarddoggydaycare.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "yogaflowbegin.com"
+          },
+          {
+            "domain": "zenpuppystudio.com"
+          },
+          {
+            "domain": "groundedyogalife.com"
+          }
+        ]
+      }
+    },
+    {
+      "subcategory": "Foreign Words & Names",
+      "description": "A Moroccan restaurant named 'Marrakech Nights' that serves tagines, couscous, and other traditional dishes.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "marrakechnights.com"
+          },
+          {
+            "domain": "marrakechnights.com"
+          },
+          {
+            "domain": "marrakechnights.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "taginetime.com"
+          },
+          {
+            "domain": "moroccanspice.com"
+          },
+          {
+            "domain": "desertplates.com"
+          }
+        ]
+      }
+    },
+    {
+      "subcategory": "Slang & Idioms",
+      "description": "A gaming community that's on point, hosting tournaments and events for gamers of all levels.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "gamers.com"
+          },
+          {
+            "domain": "gaming.com"
+          },
+          {
+            "domain": "gaminghub.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "GameNexus.com"
+          },
+          {
+            "domain": "PixelClash.com"
+          },
+          {
+            "domain": "VictoryHub.com"
+          }
+        ]
+      }
+    },
+    {
+      "subcategory": "Puns & Wordplay",
+      "description": "A coffee roastery named 'The Daily Grind' that sources high-quality, small-batch beans from around the world.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "dailygrind.com"
+          },
+          {
+            "domain": "dailygrindcoffee.com"
+          },
+          {
+            "domain": "dailygrindcoffee.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "dailybrew.com"
+          },
+          {
+            "domain": "globalroast.com"
+          },
+          {
+            "domain": "beanvoyage.com"
+          }
+        ]
+      }
+    },
+    {
+      "subcategory": "Foreign Words & Names",
+      "description": "A Brazilian steakhouse named 'Churrasco Grill' that offers rodizio-style dining and live music.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "churrasco.com"
+          },
+          {
+            "domain": "churrasco-grill.com"
+          },
+          {
+            "domain": "churrasco-grill.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "grillrio.com"
+          },
+          {
+            "domain": "brasabeat.com"
+          },
+          {
+            "domain": "churrascolife.com"
+          }
+        ]
+      }
+    }
+  ]
+}

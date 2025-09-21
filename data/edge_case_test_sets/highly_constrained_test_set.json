@@ -1,0 +1,154 @@
+{
+  "test_cases": [
+    {
+      "subcategory": "Required Keywords",
+      "description": "A yoga studio in Los Angeles, CA that must include the word 'Zenith' in the domain name and targets beginners.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "zenithyoga.com"
+          },
+          {
+            "domain": "zenithyogastudio.com"
+          },
+          {
+            "domain": "zenithyogalosangeles.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "ZenithFlow.com"
+          },
+          {
+            "domain": "LAZenithYoga.com"
+          },
+          {
+            "domain": "ZenithBegin.com"
+          }
+        ]
+      }
+    },
+    {
+      "subcategory": "Required Keywords",
+      "description": "A web development company based in New York that requires the word 'Nexus' in the domain and specializes in e-commerce solutions.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "nexus.com"
+          },
+          {
+            "domain": "nexusny.com"
+          },
+          {
+            "domain": "nexusnyc.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "NexusCraft.com"
+          },
+          {
+            "domain": "NYNexusWeb.com"
+          },
+          {
+            "domain": "NexusCommerce.com"
+          }
+        ]
+      }
+    },
+    {
+      "subcategory": "Required Keywords",
+      "description": "A digital marketing firm in Chicago that must include the word 'Apex' in the domain and focuses on social media marketing.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "apexsocial.com"
+          },
+          {
+            "domain": "apexsocialmedia.com"
+          },
+          {
+            "domain": "apexsocialmarketing.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "ApexSocial.com"
+          },
+          {
+            "domain": "ApexReach.com"
+          },
+          {
+            "domain": "ApexBoost.com"
+          }
+        ]
+      }
+    },
+    {
+      "subcategory": "Required Keywords",
+      "description": "A health and wellness center in Miami that requires the word 'Vitality' in the domain and offers fitness classes.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "vitality.com"
+          },
+          {
+            "domain": "vitalityfitness.com"
+          },
+          {
+            "domain": "vitalityfitnesscenter.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "MiamiVitality.com"
+          },
+          {
+            "domain": "VitalityFlow.com"
+          },
+          {
+            "domain": "VitalityMiami.com"
+          }
+        ]
+      }
+    },
+    {
+      "subcategory": "Required Keywords",
+      "description": "A financial planning service in San Francisco that must include the word 'Prospera' in the domain and caters to young professionals.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "prospera.com"
+          },
+          {
+            "domain": "prospera-planning.com"
+          },
+          {
+            "domain": "prospera-financial.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "ProsperaSF.com"
+          },
+          {
+            "domain": "ProsperaPath.com"
+          },
+          {
+            "domain": "YoungProspera.com"
+          }
+        ]
+      }
+    }
+  ]
+}

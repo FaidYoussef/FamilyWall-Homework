@@ -1,0 +1,62 @@
+{
+  "test_cases": [
+    {
+      "description": "A technology firm specializing in developing cognitive architectures for edge AI devices to enhance real-time decision-making in industrial settings.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "cognitivearchitectures.com"
+          },
+          {
+            "domain": "cognitivearchitecture.com"
+          },
+          {
+            "domain": "cognitivearchitecture.ai"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "CogniEdge.com"
+          },
+          {
+            "domain": "EdgeMind.com"
+          },
+          {
+            "domain": "RealSense.com"
+          }
+        ]
+      }
+    },
+    {
+      "description": "A cybersecurity consultancy that offers vulnerability assessment and penetration testing services, leveraging a combination of human expertise and AI-powered tools to identify and mitigate potential threats.",
+      "mistral_output": {
+        "suggestions": [
+          {
+            "domain": "cybersecurityconsultancy.com"
+          },
+          {
+            "domain": "cybersecurityconsultancy.com"
+          },
+          {
+            "domain": "cybersecurityconsultancy.com"
+          }
+        ]
+      },
+      "gemma_output": {
+        "suggestions": [
+          {
+            "domain": "FortressAI.com"
+          },
+          {
+            "domain": "CyberShield.com"
+          },
+          {
+            "domain": "ThreatLens.com"
+          }
+        ]
+      }
+    }
+  ]
+}
